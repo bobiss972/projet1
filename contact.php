@@ -26,7 +26,7 @@
       }
 
       echo "<br> vous etes rentrer ? ".$autorisation;
-
+      echo "ok";
 ?>
     
 
